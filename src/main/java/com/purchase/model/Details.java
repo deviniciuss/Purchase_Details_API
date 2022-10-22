@@ -15,7 +15,6 @@ import javax.persistence.*;
 
 @Entity
 @Inheritance(strategy = InheritanceType.SINGLE_TABLE)
-
 @Component
 public class Details extends AbstractModel {
 

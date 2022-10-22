@@ -6,7 +6,7 @@
 * In the upper right corner press the "▷" Run button.
 
 ## How to use the API
-* First, you can see how the API return the JSON with the <a href="https://www.postman.com/"> postman</a>;
+* First, you can see how the API returns the JSON with the <a href="https://www.postman.com/"> postman</a>;
 * Search for all valid purchases (valid purchases are those that are not expired): http://localhost:8080/api/purchase;
 ```json
 [
